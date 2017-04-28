@@ -1,4 +1,10 @@
-# Auto Register Services By Class Name Suffix
+# Auto Register Services By Class Name Suffix - Deprecated, in core of Symfony 3.3+
+
+- https://github.com/symfony/symfony/pull/21289
+
+
+---
+
 
 Register every Controller, Repository or Command in your app. 
 
